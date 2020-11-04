@@ -3,6 +3,7 @@ kind: Deployment
 # test
 # test pipeline auto
 # test git clone auto
+# test +1
 metadata:
   name: jenkins-demo
   namespace: kube-ops
