@@ -1,6 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 # test
+# test pipeline auto
 metadata:
   name: jenkins-demo
   namespace: kube-ops
